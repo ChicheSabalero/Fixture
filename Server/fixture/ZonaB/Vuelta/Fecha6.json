@@ -1,0 +1,83 @@
+{
+  "434": {
+    "Id": 434,
+    "Fecha": "Fecha 6",
+    "Zona": "B",
+    "Local": "Aldosivi ",
+    "Visitante": "Colón",
+    "GolL": 0,
+    "GolV": 0
+  },
+  "436": {
+    "Id": 436,
+    "Fecha": "Fecha 6",
+    "Zona": "B",
+    "Local": "Mitre (Santiago del Estero)",
+    "Visitante": "Almirante Brown SJ",
+    "GolL": 0,
+    "GolV": 0
+  },
+  "438": {
+    "Id": 438,
+    "Fecha": "Fecha 6",
+    "Zona": "B",
+    "Local": "GyT S",
+    "Visitante": "Atlanta",
+    "GolL": 0,
+    "GolV": 0
+  },
+  "440": {
+    "Id": 440,
+    "Fecha": "Fecha 6",
+    "Zona": "B",
+    "Local": "GyE M",
+    "Visitante": "Def Unidos",
+    "GolL": 0,
+    "GolV": 0
+  },
+  "442": {
+    "Id": 442,
+    "Fecha": "Fecha 6",
+    "Zona": "B",
+    "Local": "Nueva Chicago",
+    "Visitante": "Dep Madryn",
+    "GolL": 0,
+    "GolV": 0
+  },
+  "444": {
+    "Id": 444,
+    "Fecha": "Fecha 6",
+    "Zona": "B",
+    "Local": "Dep Morón",
+    "Visitante": "A Rafaela",
+    "GolL": 0,
+    "GolV": 0
+  },
+  "446": {
+    "Id": 446,
+    "Fecha": "Fecha 6",
+    "Zona": "B",
+    "Local": "Temperley",
+    "Visitante": "San Telmo",
+    "GolL": 0,
+    "GolV": 0
+  },
+  "448": {
+    "Id": 448,
+    "Fecha": "Fecha 6",
+    "Zona": "B",
+    "Local": "Brown A",
+    "Visitante": "Chaco FE",
+    "GolL": 0,
+    "GolV": 0
+  },
+  "450": {
+    "Id": 450,
+    "Fecha": "Fecha 6",
+    "Zona": "B",
+    "Local": "Almagro",
+    "Visitante": "Def Belgrano",
+    "GolL": 0,
+    "GolV": 0
+  }
+}

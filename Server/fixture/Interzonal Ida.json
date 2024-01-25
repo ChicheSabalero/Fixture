@@ -1,0 +1,135 @@
+{
+  "I01": {
+    "Id": "I01",
+    "Local": "Quilmes",
+    "Visitante": "Temperley",
+    "GolL": 0,
+    "GolV": 0
+  },
+  "I03": {
+    "Id": "I03",
+    "Local": "Almirante Brown SJ",
+    "Visitante": "Tristán Suárez",
+    "GolL": 0,
+    "GolV": 0
+  },
+  "I05": {
+    "Id": "I05",
+    "Local": "Talleres RE",
+    "Visitante": "Brown A",
+    "GolL": 0,
+    "GolV": 0
+  },
+  "I07": {
+    "Id": "I07",
+    "Local": "Colón",
+    "Visitante": "Patronato",
+    "GolL": 0,
+    "GolV": 0
+  },
+  "I09": {
+    "Id": "I09",
+    "Local": "Estudiantes CA",
+    "Visitante": "Almagro",
+    "GolL": 0,
+    "GolV": 0
+  },
+  "I11": {
+    "Id": "I11",
+    "Local": "Estudiantes (Río Cuarto)",
+    "Visitante": "Racing C",
+    "GolL": 0,
+    "GolV": 0
+  },
+  "I13": {
+    "Id": "I13",
+    "Local": "Chacarita ",
+    "Visitante": "Def Belgrano",
+    "GolL": 0,
+    "GolV": 0
+  },
+  "I15": {
+    "Id": "I15",
+    "Local": "Aldosivi ",
+    "Visitante": "Alvarado MdP",
+    "GolL": 0,
+    "GolV": 0
+  },
+  "I17": {
+    "Id": "I17",
+    "Local": "San Martín T",
+    "Visitante": "Chaco FE",
+    "GolL": 0,
+    "GolV": 0
+  },
+  "I19": {
+    "Id": "I19",
+    "Local": "Mitre (Santiago del Estero)",
+    "Visitante": "Güemes SE",
+    "GolL": 0,
+    "GolV": 0
+  },
+  "I21": {
+    "Id": "I21",
+    "Local": "Arsenal ",
+    "Visitante": "San Telmo",
+    "GolL": 0,
+    "GolV": 0
+  },
+  "I23": {
+    "Id": "I23",
+    "Local": "GyT S",
+    "Visitante": "GyE J",
+    "GolL": 0,
+    "GolV": 0
+  },
+  "I25": {
+    "Id": "I25",
+    "Local": "San Martín SJ",
+    "Visitante": "A Rafaela",
+    "GolL": 0,
+    "GolV": 0
+  },
+  "I27": {
+    "Id": "I27",
+    "Local": "GyE M",
+    "Visitante": "Dep Maipú",
+    "GolL": 0,
+    "GolV": 0
+  },
+  "I29": {
+    "Id": "I29",
+    "Local": "Brown PM",
+    "Visitante": "Dep Madryn",
+    "GolL": 0,
+    "GolV": 0
+  },
+  "I31": {
+    "Id": "I31",
+    "Local": "Nueva Chicago",
+    "Visitante": "Ferro Carril Oeste",
+    "GolL": 0,
+    "GolV": 0
+  },
+  "I33": {
+    "Id": "I33",
+    "Local": "Agropecuario ",
+    "Visitante": "Def Unidos",
+    "GolL": 0,
+    "GolV": 0
+  },
+  "I35": {
+    "Id": "I35",
+    "Local": "Dep Morón",
+    "Visitante": "San Miguel",
+    "GolL": 0,
+    "GolV": 0
+  },
+  "I37": {
+    "Id": "I37",
+    "Local": "All Boys",
+    "Visitante": "Atlanta",
+    "GolL": 0,
+    "GolV": 0
+  }
+}

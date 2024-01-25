@@ -1,0 +1,194 @@
+{
+  "equipos": [
+    {
+      "Id": "01",
+      "Equipo": "Agropecuario ",
+      "Zona": "A"
+    },
+    {
+      "Id": "02",
+      "Equipo": "Aldosivi ",
+      "Zona": "B"
+    },
+    {
+      "Id": "03",
+      "Equipo": "All Boys",
+      "Zona": "A"
+    },
+    {
+      "Id": "04",
+      "Equipo": "Almagro",
+      "Zona": "B"
+    },
+    {
+      "Id": "05",
+      "Equipo": "Almirante Brown SJ",
+      "Zona": "A"
+    },
+    {
+      "Id": "06",
+      "Equipo": "Alvarado MdP",
+      "Zona": "A"
+    },
+    {
+      "Id": "07",
+      "Equipo": "Arsenal ",
+      "Zona": "A"
+    },
+    {
+      "Id": "08",
+      "Equipo": "A Rafaela",
+      "Zona": "B"
+    },
+    {
+      "Id": "09",
+      "Equipo": "Brown A",
+      "Zona": "A"
+    },
+    {
+      "Id": "10",
+      "Equipo": "Castellano ",
+      "Zona": "A"
+    },
+    {
+      "Id": "11",
+      "Equipo": "Chacarita ",
+      "Zona": "A"
+    },
+    {
+      "Id": "12",
+      "Equipo": "Chaco FE",
+      "Zona": "B"
+    },
+    {
+      "Id": "13",
+      "Equipo": "Colón",
+      "Zona": "B"
+    },
+    {
+      "Id": "14",
+      "Equipo": "Def Belgrano",
+      "Zona": "B"
+    },
+    {
+      "Id": "15",
+      "Equipo": "Def Unidos",
+      "Zona": "B"
+    },
+    {
+      "Id": "16",
+      "Equipo": "Dep Maipú",
+      "Zona": "A"
+    },
+    {
+      "Id": "17",
+      "Equipo": "Dep Madryn",
+      "Zona": "B"
+    },
+    {
+      "Id": "18",
+      "Equipo": "Dep Morón",
+      "Zona": "B"
+    },
+    {
+      "Id": "19",
+      "Equipo": "Estudiantes CA",
+      "Zona": "A"
+    },
+    {
+      "Id": "20",
+      "Equipo": "Estudiantes (Río Cuarto)",
+      "Zona": "A"
+    },
+    {
+      "Id": "21",
+      "Equipo": "Ferro Carril Oeste",
+      "Zona": "B"
+    },
+    {
+      "Id": "22",
+      "Equipo": "GyE M",
+      "Zona": "B"
+    },
+    {
+      "Id": "23",
+      "Equipo": "GyE J",
+      "Zona": "B"
+    },
+    {
+      "Id": "24",
+      "Equipo": "GyT S",
+      "Zona": "B"
+    },
+    {
+      "Id": "25",
+      "Equipo": "Brown PM",
+      "Zona": "B"
+    },
+    {
+      "Id": "26",
+      "Equipo": "Güemes SE",
+      "Zona": "B"
+    },
+    {
+      "Id": "27",
+      "Equipo": "Nueva Chicago",
+      "Zona": "B"
+    },
+    {
+      "Id": "28",
+      "Equipo": "Patronato",
+      "Zona": "B"
+    },
+    {
+      "Id": "29",
+      "Equipo": "Quilmes",
+      "Zona": "A"
+    },
+    {
+      "Id": "30",
+      "Equipo": "Racing C",
+      "Zona": "A"
+    },
+    {
+      "Id": "31",
+      "Equipo": "San Martín SJ",
+      "Zona": "B"
+    },
+    {
+      "Id": "32",
+      "Equipo": "San Martín T",
+      "Zona": "A"
+    },
+    {
+      "Id": "33",
+      "Equipo": "San Telmo",
+      "Zona": "B"
+    },
+    {
+      "Id": "34",
+      "Equipo": "San Miguel",
+      "Zona": "B"
+    },
+    {
+      "Id": "35",
+      "Equipo": "Temperley",
+      "Zona": "B"
+    },
+    {
+      "Id": "36",
+      "Equipo": "Talleres RE",
+      "Zona": "A"
+    },
+    {
+      "Id": "37",
+      "Equipo": "Tristán Suárez",
+      "Zona": "A"
+    },
+    {
+      "Id": "38",
+      "Equipo": "Atlanta",
+      "Zona": "B"
+    }
+  ]
+}

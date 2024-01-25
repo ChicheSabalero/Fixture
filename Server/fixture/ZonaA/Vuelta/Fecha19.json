@@ -1,0 +1,83 @@
+{
+  "667": {
+    "Id": 667,
+    "Fecha": "Fecha 19",
+    "Zona": "A",
+    "Local": "Agropecuario ",
+    "Visitante": "Tristán Suárez",
+    "GolL": 0,
+    "GolV": 0
+  },
+  "669": {
+    "Id": 669,
+    "Fecha": "Fecha 19",
+    "Zona": "A",
+    "Local": "Brown PM",
+    "Visitante": "Patronato",
+    "GolL": 0,
+    "GolV": 0
+  },
+  "671": {
+    "Id": 671,
+    "Fecha": "Fecha 19",
+    "Zona": "A",
+    "Local": "San Martín SJ",
+    "Visitante": "Racing C",
+    "GolL": 0,
+    "GolV": 0
+  },
+  "673": {
+    "Id": 673,
+    "Fecha": "Fecha 19",
+    "Zona": "A",
+    "Local": "Arsenal ",
+    "Visitante": "Alvarado MdP",
+    "GolL": 0,
+    "GolV": 0
+  },
+  "675": {
+    "Id": 675,
+    "Fecha": "Fecha 19",
+    "Zona": "A",
+    "Local": "San Martín T",
+    "Visitante": "Güemes SE",
+    "GolL": 0,
+    "GolV": 0
+  },
+  "677": {
+    "Id": 677,
+    "Fecha": "Fecha 19",
+    "Zona": "A",
+    "Local": "Chacarita ",
+    "Visitante": "GyE J",
+    "GolL": 0,
+    "GolV": 0
+  },
+  "679": {
+    "Id": 679,
+    "Fecha": "Fecha 19",
+    "Zona": "A",
+    "Local": "Estudiantes CA",
+    "Visitante": "Dep Maipú",
+    "GolL": 0,
+    "GolV": 0
+  },
+  "681": {
+    "Id": 681,
+    "Fecha": "Fecha 19",
+    "Zona": "A",
+    "Local": "Talleres RE",
+    "Visitante": "Ferro Carril Oeste",
+    "GolL": 0,
+    "GolV": 0
+  },
+  "683": {
+    "Id": 683,
+    "Fecha": "Fecha 19",
+    "Zona": "A",
+    "Local": "Quilmes",
+    "Visitante": "San Miguel",
+    "GolL": 0,
+    "GolV": 0
+  }
+}

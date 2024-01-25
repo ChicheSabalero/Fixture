@@ -1,0 +1,83 @@
+{
+  "074": {
+    "Id": 74,
+    "Fecha": "FECHA 5",
+    "Zona": "B",
+    "Local": "Brown A",
+    "Visitante": "Def Belgrano",
+    "GolL": 0,
+    "GolV": 0
+  },
+  "076": {
+    "Id": 76,
+    "Fecha": "FECHA 5",
+    "Zona": "B",
+    "Local": "Temperley",
+    "Visitante": "Chaco FE",
+    "GolL": 0,
+    "GolV": 0
+  },
+  "078": {
+    "Id": 78,
+    "Fecha": "FECHA 5",
+    "Zona": "B",
+    "Local": "Dep Morón",
+    "Visitante": "San Telmo",
+    "GolL": 0,
+    "GolV": 0
+  },
+  "080": {
+    "Id": 80,
+    "Fecha": "FECHA 5",
+    "Zona": "B",
+    "Local": "Nueva Chicago",
+    "Visitante": "A Rafaela",
+    "GolL": 0,
+    "GolV": 0
+  },
+  "082": {
+    "Id": 82,
+    "Fecha": "FECHA 5",
+    "Zona": "B",
+    "Local": "GyE M",
+    "Visitante": "Dep Madryn",
+    "GolL": 0,
+    "GolV": 0
+  },
+  "084": {
+    "Id": 84,
+    "Fecha": "FECHA 5",
+    "Zona": "B",
+    "Local": "GyT S",
+    "Visitante": "Def Unidos",
+    "GolL": 0,
+    "GolV": 0
+  },
+  "086": {
+    "Id": 86,
+    "Fecha": "FECHA 5",
+    "Zona": "B",
+    "Local": "Mitre (Santiago del Estero)",
+    "Visitante": "Atlanta",
+    "GolL": 0,
+    "GolV": 0
+  },
+  "088": {
+    "Id": 88,
+    "Fecha": "FECHA 5",
+    "Zona": "B",
+    "Local": "Aldosivi ",
+    "Visitante": "Almirante Brown SJ",
+    "GolL": 0,
+    "GolV": 0
+  },
+  "090": {
+    "Id": 90,
+    "Fecha": "FECHA 5",
+    "Zona": "B",
+    "Local": "Estudiantes (Río Cuarto)",
+    "Visitante": "Colón",
+    "GolL": 0,
+    "GolV": 0
+  }
+}

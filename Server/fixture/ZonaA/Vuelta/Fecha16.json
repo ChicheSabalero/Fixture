@@ -1,0 +1,83 @@
+{
+  "613": {
+    "Id": 613,
+    "Fecha": "Fecha 16",
+    "Zona": "A",
+    "Local": "Dep Maipú",
+    "Visitante": "San Miguel",
+    "GolL": 0,
+    "GolV": 0
+  },
+  "615": {
+    "Id": 615,
+    "Fecha": "Fecha 16",
+    "Zona": "A",
+    "Local": "GyE J",
+    "Visitante": "Quilmes",
+    "GolL": 0,
+    "GolV": 0
+  },
+  "617": {
+    "Id": 617,
+    "Fecha": "Fecha 16",
+    "Zona": "A",
+    "Local": "Güemes SE",
+    "Visitante": "Talleres RE",
+    "GolL": 0,
+    "GolV": 0
+  },
+  "619": {
+    "Id": 619,
+    "Fecha": "Fecha 16",
+    "Zona": "A",
+    "Local": "Alvarado MdP",
+    "Visitante": "Estudiantes CA",
+    "GolL": 0,
+    "GolV": 0
+  },
+  "621": {
+    "Id": 621,
+    "Fecha": "Fecha 16",
+    "Zona": "A",
+    "Local": "Racing C",
+    "Visitante": "Chacarita ",
+    "GolL": 0,
+    "GolV": 0
+  },
+  "623": {
+    "Id": 623,
+    "Fecha": "Fecha 16",
+    "Zona": "A",
+    "Local": "Patronato",
+    "Visitante": "San Martín T",
+    "GolL": 0,
+    "GolV": 0
+  },
+  "625": {
+    "Id": 625,
+    "Fecha": "Fecha 16",
+    "Zona": "A",
+    "Local": "Tristán Suárez",
+    "Visitante": "Arsenal ",
+    "GolL": 0,
+    "GolV": 0
+  },
+  "627": {
+    "Id": 627,
+    "Fecha": "Fecha 16",
+    "Zona": "A",
+    "Local": "All Boys",
+    "Visitante": "San Martín SJ",
+    "GolL": 0,
+    "GolV": 0
+  },
+  "629": {
+    "Id": 629,
+    "Fecha": "Fecha 16",
+    "Zona": "A",
+    "Local": "Agropecuario ",
+    "Visitante": "Brown PM",
+    "GolL": 0,
+    "GolV": 0
+  }
+}

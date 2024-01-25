@@ -1,0 +1,83 @@
+{
+  "145": {
+    "Id": 145,
+    "Fecha": "Fecha 9",
+    "Zona": "A",
+    "Local": "Agropecuario ",
+    "Visitante": "Quilmes",
+    "GolL": 0,
+    "GolV": 0
+  },
+  "147": {
+    "Id": 147,
+    "Fecha": "Fecha 9",
+    "Zona": "A",
+    "Local": "All Boys",
+    "Visitante": "San Miguel",
+    "GolL": 0,
+    "GolV": 0
+  },
+  "149": {
+    "Id": 149,
+    "Fecha": "Fecha 9",
+    "Zona": "A",
+    "Local": "Alvarado MdP",
+    "Visitante": "Güemes SE",
+    "GolL": 0,
+    "GolV": 0
+  },
+  "151": {
+    "Id": 151,
+    "Fecha": "Fecha 9",
+    "Zona": "A",
+    "Local": "Arsenal ",
+    "Visitante": "Chacarita ",
+    "GolL": 0,
+    "GolV": 0
+  },
+  "153": {
+    "Id": 153,
+    "Fecha": "Fecha 9",
+    "Zona": "A",
+    "Local": "Brown PM",
+    "Visitante": "Talleres RE",
+    "GolL": 0,
+    "GolV": 0
+  },
+  "155": {
+    "Id": 155,
+    "Fecha": "Fecha 9",
+    "Zona": "A",
+    "Local": "Patronato",
+    "Visitante": "Dep Maipú",
+    "GolL": 0,
+    "GolV": 0
+  },
+  "157": {
+    "Id": 157,
+    "Fecha": "Fecha 9",
+    "Zona": "A",
+    "Local": "Racing C",
+    "Visitante": "GyE J",
+    "GolL": 0,
+    "GolV": 0
+  },
+  "159": {
+    "Id": 159,
+    "Fecha": "Fecha 9",
+    "Zona": "A",
+    "Local": "San Martín SJ",
+    "Visitante": "Estudiantes CA",
+    "GolL": 0,
+    "GolV": 0
+  },
+  "161": {
+    "Id": 161,
+    "Fecha": "Fecha 9",
+    "Zona": "A",
+    "Local": "Tristán Suárez",
+    "Visitante": "Ferro Carril Oeste",
+    "GolL": 0,
+    "GolV": 0
+  }
+}

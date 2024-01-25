@@ -1,0 +1,83 @@
+{
+  "037": {
+    "Id": 37,
+    "Fecha": "Fecha 3",
+    "Zona": "A",
+    "Local": "Agropecuario ",
+    "Visitante": "Alvarado MdP",
+    "GolL": 0,
+    "GolV": 0
+  },
+  "039": {
+    "Id": 39,
+    "Fecha": "Fecha 3",
+    "Zona": "A",
+    "Local": "All Boys",
+    "Visitante": "Racing C",
+    "GolL": 0,
+    "GolV": 0
+  },
+  "041": {
+    "Id": 41,
+    "Fecha": "Fecha 3",
+    "Zona": "A",
+    "Local": "Arsenal ",
+    "Visitante": "Dep Maipú",
+    "GolL": 0,
+    "GolV": 0
+  },
+  "043": {
+    "Id": 43,
+    "Fecha": "Fecha 3",
+    "Zona": "A",
+    "Local": "Chacarita ",
+    "Visitante": "San Miguel",
+    "GolL": 0,
+    "GolV": 0
+  },
+  "045": {
+    "Id": 45,
+    "Fecha": "Fecha 3",
+    "Zona": "A",
+    "Local": "Estudiantes CA",
+    "Visitante": "Quilmes",
+    "GolL": 0,
+    "GolV": 0
+  },
+  "047": {
+    "Id": 47,
+    "Fecha": "Fecha 3",
+    "Zona": "A",
+    "Local": "Brown PM",
+    "Visitante": "Güemes SE",
+    "GolL": 0,
+    "GolV": 0
+  },
+  "049": {
+    "Id": 49,
+    "Fecha": "Fecha 3",
+    "Zona": "A",
+    "Local": "San Martín SJ",
+    "Visitante": "GyE J",
+    "GolL": 0,
+    "GolV": 0
+  },
+  "051": {
+    "Id": 51,
+    "Fecha": "Fecha 3",
+    "Zona": "A",
+    "Local": "San Martín T",
+    "Visitante": "Ferro Carril Oeste",
+    "GolL": 0,
+    "GolV": 0
+  },
+  "053": {
+    "Id": 53,
+    "Fecha": "Fecha 3",
+    "Zona": "A",
+    "Local": "Tristán Suárez",
+    "Visitante": "Patronato",
+    "GolL": 0,
+    "GolV": 0
+  }
+}

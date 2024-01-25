@@ -1,0 +1,83 @@
+{
+  "001": {
+    "Id": 1,
+    "Fecha": "Fecha 1",
+    "Zona": "A",
+    "Local": "Agropecuario ",
+    "Visitante": "Patronato",
+    "GolL": 0,
+    "GolV": 0
+  },
+  "003": {
+    "Id": 3,
+    "Fecha": "Fecha 1",
+    "Zona": "A",
+    "Local": "All Boys",
+    "Visitante": "Tristán Suárez",
+    "GolL": 0,
+    "GolV": 0
+  },
+  "005": {
+    "Id": 5,
+    "Fecha": "Fecha 1",
+    "Zona": "A",
+    "Local": "Arsenal ",
+    "Visitante": "Güemes SE",
+    "GolL": 0,
+    "GolV": 0
+  },
+  "007": {
+    "Id": 7,
+    "Fecha": "Fecha 1",
+    "Zona": "A",
+    "Local": "Chacarita ",
+    "Visitante": "Dep Maipú",
+    "GolL": 0,
+    "GolV": 0
+  },
+  "009": {
+    "Id": 9,
+    "Fecha": "Fecha 1",
+    "Zona": "A",
+    "Local": "Estudiantes CA",
+    "Visitante": "Ferro Carril Oeste",
+    "GolL": 0,
+    "GolV": 0
+  },
+  "011": {
+    "Id": 11,
+    "Fecha": "Fecha 1",
+    "Zona": "A",
+    "Local": "Brown PM",
+    "Visitante": "Racing C",
+    "GolL": 0,
+    "GolV": 0
+  },
+  "013": {
+    "Id": 13,
+    "Fecha": "Fecha 1",
+    "Zona": "A",
+    "Local": "San Martín SJ",
+    "Visitante": "Alvarado MdP",
+    "GolL": 0,
+    "GolV": 0
+  },
+  "015": {
+    "Id": 15,
+    "Fecha": "Fecha 1",
+    "Zona": "A",
+    "Local": "San Martín T",
+    "Visitante": "GyE J",
+    "GolL": 0,
+    "GolV": 0
+  },
+  "017": {
+    "Id": 17,
+    "Fecha": "Fecha 1",
+    "Zona": "A",
+    "Local": "Talleres RE",
+    "Visitante": "San Miguel",
+    "GolL": 0,
+    "GolV": 0
+  }
+}

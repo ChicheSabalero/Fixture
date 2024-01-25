@@ -1,0 +1,83 @@
+{
+  "110": {
+    "Id": 110,
+    "Fecha": "FECHA 7",
+    "Zona": "B",
+    "Local": "Almagro",
+    "Visitante": "Chaco FE",
+    "GolL": 0,
+    "GolV": 0
+  },
+  "112": {
+    "Id": 112,
+    "Fecha": "FECHA 7",
+    "Zona": "B",
+    "Local": "Brown A",
+    "Visitante": "San Telmo",
+    "GolL": 0,
+    "GolV": 0
+  },
+  "114": {
+    "Id": 114,
+    "Fecha": "FECHA 7",
+    "Zona": "B",
+    "Local": "Temperley",
+    "Visitante": "A Rafaela",
+    "GolL": 0,
+    "GolV": 0
+  },
+  "116": {
+    "Id": 116,
+    "Fecha": "FECHA 7",
+    "Zona": "B",
+    "Local": "Dep Morón",
+    "Visitante": "Dep Madryn",
+    "GolL": 0,
+    "GolV": 0
+  },
+  "118": {
+    "Id": 118,
+    "Fecha": "FECHA 7",
+    "Zona": "B",
+    "Local": "Nueva Chicago",
+    "Visitante": "Def Unidos",
+    "GolL": 0,
+    "GolV": 0
+  },
+  "120": {
+    "Id": 120,
+    "Fecha": "FECHA 7",
+    "Zona": "B",
+    "Local": "GyE M",
+    "Visitante": "Atlanta",
+    "GolL": 0,
+    "GolV": 0
+  },
+  "122": {
+    "Id": 122,
+    "Fecha": "FECHA 7",
+    "Zona": "B",
+    "Local": "GyT S",
+    "Visitante": "Almirante Brown SJ",
+    "GolL": 0,
+    "GolV": 0
+  },
+  "124": {
+    "Id": 124,
+    "Fecha": "FECHA 7",
+    "Zona": "B",
+    "Local": "Mitre (Santiago del Estero)",
+    "Visitante": "Colón",
+    "GolL": 0,
+    "GolV": 0
+  },
+  "126": {
+    "Id": 126,
+    "Fecha": "FECHA 7",
+    "Zona": "B",
+    "Local": "Aldosivi ",
+    "Visitante": "Estudiantes (Río Cuarto)",
+    "GolL": 0,
+    "GolV": 0
+  }
+}

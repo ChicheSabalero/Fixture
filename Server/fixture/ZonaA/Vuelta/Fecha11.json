@@ -1,0 +1,83 @@
+{
+  "523": {
+    "Id": 523,
+    "Fecha": "Fecha 11",
+    "Zona": "A",
+    "Local": "Estudiantes CA",
+    "Visitante": "Agropecuario ",
+    "GolL": 0,
+    "GolV": 0
+  },
+  "525": {
+    "Id": 525,
+    "Fecha": "Fecha 11",
+    "Zona": "A",
+    "Local": "Talleres RE",
+    "Visitante": "All Boys",
+    "GolL": 0,
+    "GolV": 0
+  },
+  "527": {
+    "Id": 527,
+    "Fecha": "Fecha 11",
+    "Zona": "A",
+    "Local": "Dep Maipú",
+    "Visitante": "Alvarado MdP",
+    "GolL": 0,
+    "GolV": 0
+  },
+  "529": {
+    "Id": 529,
+    "Fecha": "Fecha 11",
+    "Zona": "A",
+    "Local": "GyE J",
+    "Visitante": "Güemes SE",
+    "GolL": 0,
+    "GolV": 0
+  },
+  "531": {
+    "Id": 531,
+    "Fecha": "Fecha 11",
+    "Zona": "A",
+    "Local": "Chacarita ",
+    "Visitante": "Brown PM",
+    "GolL": 0,
+    "GolV": 0
+  },
+  "533": {
+    "Id": 533,
+    "Fecha": "Fecha 11",
+    "Zona": "A",
+    "Local": "San Miguel",
+    "Visitante": "Patronato",
+    "GolL": 0,
+    "GolV": 0
+  },
+  "535": {
+    "Id": 535,
+    "Fecha": "Fecha 11",
+    "Zona": "A",
+    "Local": "Ferro Carril Oeste",
+    "Visitante": "Racing C",
+    "GolL": 0,
+    "GolV": 0
+  },
+  "537": {
+    "Id": 537,
+    "Fecha": "Fecha 11",
+    "Zona": "A",
+    "Local": "San Martín T",
+    "Visitante": "San Martín SJ",
+    "GolL": 0,
+    "GolV": 0
+  },
+  "539": {
+    "Id": 539,
+    "Fecha": "Fecha 11",
+    "Zona": "A",
+    "Local": "Quilmes",
+    "Visitante": "Tristán Suárez",
+    "GolL": 0,
+    "GolV": 0
+  }
+}

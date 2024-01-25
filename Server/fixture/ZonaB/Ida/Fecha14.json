@@ -1,0 +1,83 @@
+{
+  "236": {
+    "Id": 236,
+    "Fecha": "Fecha 14",
+    "Zona": "B",
+    "Local": "GyT S",
+    "Visitante": "Nueva Chicago",
+    "GolL": 0,
+    "GolV": 0
+  },
+  "238": {
+    "Id": 238,
+    "Fecha": "Fecha 14",
+    "Zona": "B",
+    "Local": "Mitre (Santiago del Estero)",
+    "Visitante": "Dep Morón",
+    "GolL": 0,
+    "GolV": 0
+  },
+  "240": {
+    "Id": 240,
+    "Fecha": "Fecha 14",
+    "Zona": "B",
+    "Local": "Aldosivi ",
+    "Visitante": "Temperley",
+    "GolL": 0,
+    "GolV": 0
+  },
+  "242": {
+    "Id": 242,
+    "Fecha": "Fecha 14",
+    "Zona": "B",
+    "Local": "Estudiantes (Río Cuarto)",
+    "Visitante": "Brown A",
+    "GolL": 0,
+    "GolV": 0
+  },
+  "244": {
+    "Id": 244,
+    "Fecha": "Fecha 14",
+    "Zona": "B",
+    "Local": "Colón",
+    "Visitante": "Almagro",
+    "GolL": 0,
+    "GolV": 0
+  },
+  "246": {
+    "Id": 246,
+    "Fecha": "Fecha 14",
+    "Zona": "B",
+    "Local": "Almirante Brown SJ",
+    "Visitante": "Def Belgrano",
+    "GolL": 0,
+    "GolV": 0
+  },
+  "248": {
+    "Id": 248,
+    "Fecha": "Fecha 14",
+    "Zona": "B",
+    "Local": "Atlanta",
+    "Visitante": "Chaco FE",
+    "GolL": 0,
+    "GolV": 0
+  },
+  "250": {
+    "Id": 250,
+    "Fecha": "Fecha 14",
+    "Zona": "B",
+    "Local": "Def Unidos",
+    "Visitante": "San Telmo",
+    "GolL": 0,
+    "GolV": 0
+  },
+  "252": {
+    "Id": 252,
+    "Fecha": "Fecha 14",
+    "Zona": "B",
+    "Local": "Dep Madryn",
+    "Visitante": "A Rafaela",
+    "GolL": 0,
+    "GolV": 0
+  }
+}

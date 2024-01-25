@@ -1,0 +1,83 @@
+{
+  "524": {
+    "Id": 524,
+    "Fecha": "Fecha 11",
+    "Zona": "B",
+    "Local": "A Rafaela",
+    "Visitante": "Chaco FE",
+    "GolL": 0,
+    "GolV": 0
+  },
+  "526": {
+    "Id": 526,
+    "Fecha": "Fecha 11",
+    "Zona": "B",
+    "Local": "Dep Madryn",
+    "Visitante": "Def Belgrano",
+    "GolL": 0,
+    "GolV": 0
+  },
+  "528": {
+    "Id": 528,
+    "Fecha": "Fecha 11",
+    "Zona": "B",
+    "Local": "Def Unidos",
+    "Visitante": "Almagro",
+    "GolL": 0,
+    "GolV": 0
+  },
+  "530": {
+    "Id": 530,
+    "Fecha": "Fecha 11",
+    "Zona": "B",
+    "Local": "Atlanta",
+    "Visitante": "Brown A",
+    "GolL": 0,
+    "GolV": 0
+  },
+  "532": {
+    "Id": 532,
+    "Fecha": "Fecha 11",
+    "Zona": "B",
+    "Local": "Almirante Brown SJ",
+    "Visitante": "Temperley",
+    "GolL": 0,
+    "GolV": 0
+  },
+  "534": {
+    "Id": 534,
+    "Fecha": "Fecha 11",
+    "Zona": "B",
+    "Local": "Colón",
+    "Visitante": "Dep Morón",
+    "GolL": 0,
+    "GolV": 0
+  },
+  "536": {
+    "Id": 536,
+    "Fecha": "Fecha 11",
+    "Zona": "B",
+    "Local": "Estudiantes (Río Cuarto)",
+    "Visitante": "Nueva Chicago",
+    "GolL": 0,
+    "GolV": 0
+  },
+  "538": {
+    "Id": 538,
+    "Fecha": "Fecha 11",
+    "Zona": "B",
+    "Local": "Aldosivi ",
+    "Visitante": "GyE M",
+    "GolL": 0,
+    "GolV": 0
+  },
+  "540": {
+    "Id": 540,
+    "Fecha": "Fecha 11",
+    "Zona": "B",
+    "Local": "Mitre (Santiago del Estero)",
+    "Visitante": "GyT S",
+    "GolL": 0,
+    "GolV": 0
+  }
+}

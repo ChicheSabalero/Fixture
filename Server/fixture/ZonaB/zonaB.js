@@ -1,0 +1,22 @@
+const zonaB = {
+  zonaB: [
+    "ALDOSIVI",
+    "ALMAGRO",
+    "ALMIRANTE BROWN",
+    "ATLANTA",
+    "ATLÉTICO RAFAELA",
+    "BROWN DE ADROGUÉ",
+    "CHACO FOR EVER",
+    "COLÓN",
+    "DEPORTIVO MADRY",
+    "DEPORTIVO MORÓN",
+    "ESTUDIANTES RC",
+    "GIMNASIA (M)",
+    "GIMNASIA Y TIRO (S)",
+    "MITRE (SGO)",
+    "NUEVA CHICAGO",
+    "SAN TELMO",
+    "DEFENSORES",
+    "DEFENSORES UNIDOS",
+  ],
+};

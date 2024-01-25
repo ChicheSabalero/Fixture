@@ -1,0 +1,22 @@
+const zonaA = {
+  zonaA: [
+    "AGROPECUARIO",
+    "ALDOSIVI",
+    "ALVARADO",
+    "ARSENAL",
+    "ALL BOYS",
+    "CHACARITA",
+    "DEPORTIVO MAIPÚ",
+    "ESTUDIANTES BA",
+    "FERRO",
+    "GIMNASIA DE JUJUY",
+    "GUILLERMO BROWN",
+    "GÜEMES (SGO)",
+    "RACING DE CÓRDOBA",
+    "SAN MARTÍN (SJ)",
+    "SAN MARTÍN (T)",
+    "SAN MIGUEL",
+    "TALLERES RE",
+    "TRISTÁN SUÁREZ",
+  ],
+};

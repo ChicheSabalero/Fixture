@@ -1,0 +1,83 @@
+{
+  "109": {
+    "Id": 109,
+    "Fecha": "Fecha 7",
+    "Zona": "A",
+    "Local": "Agropecuario ",
+    "Visitante": "Ferro Carril Oeste",
+    "GolL": 0,
+    "GolV": 0
+  },
+  "111": {
+    "Id": 111,
+    "Fecha": "Fecha 7",
+    "Zona": "A",
+    "Local": "All Boys",
+    "Visitante": "Dep Maipú",
+    "GolL": 0,
+    "GolV": 0
+  },
+  "113": {
+    "Id": 113,
+    "Fecha": "Fecha 7",
+    "Zona": "A",
+    "Local": "Arsenal ",
+    "Visitante": "Talleres RE",
+    "GolL": 0,
+    "GolV": 0
+  },
+  "115": {
+    "Id": 115,
+    "Fecha": "Fecha 7",
+    "Zona": "A",
+    "Local": "Brown PM",
+    "Visitante": "San Miguel",
+    "GolL": 0,
+    "GolV": 0
+  },
+  "117": {
+    "Id": 117,
+    "Fecha": "Fecha 7",
+    "Zona": "A",
+    "Local": "Patronato",
+    "Visitante": "Güemes SE",
+    "GolL": 0,
+    "GolV": 0
+  },
+  "119": {
+    "Id": 119,
+    "Fecha": "Fecha 7",
+    "Zona": "A",
+    "Local": "Racing C",
+    "Visitante": "Alvarado MdP",
+    "GolL": 0,
+    "GolV": 0
+  },
+  "121": {
+    "Id": 121,
+    "Fecha": "Fecha 7",
+    "Zona": "A",
+    "Local": "San Martín SJ",
+    "Visitante": "Quilmes",
+    "GolL": 0,
+    "GolV": 0
+  },
+  "123": {
+    "Id": 123,
+    "Fecha": "Fecha 7",
+    "Zona": "A",
+    "Local": "San Martín T",
+    "Visitante": "Estudiantes CA",
+    "GolL": 0,
+    "GolV": 0
+  },
+  "125": {
+    "Id": 125,
+    "Fecha": "Fecha 7",
+    "Zona": "A",
+    "Local": "Tristán Suárez",
+    "Visitante": "GyE J",
+    "GolL": 0,
+    "GolV": 0
+  }
+}
